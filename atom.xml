@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Golang升华之道</title>
+  
+  <subtitle>学习记录</subtitle>
+  <link href="http://bearhao.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://bearhao.github.io/"/>
+  <updated>2023-01-04T14:57:49.533Z</updated>
+  <id>http://bearhao.github.io/</id>
+  
+  <author>
+    <name>Xiong Hao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://bearhao.github.io/posts/16107.html"/>
+    <id>http://bearhao.github.io/posts/16107.html</id>
+    <published>2023-01-04T14:02:45.837Z</published>
+    <updated>2023-01-04T14:57:49.533Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客安装和Matery主题优化配置</title>
+    <link href="http://bearhao.github.io/posts/36738.html"/>
+    <id>http://bearhao.github.io/posts/36738.html</id>
+    <published>2021-09-07T01:25:00.000Z</published>
+    <updated>2023-01-04T15:43:15.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;Hexo-的安装&quot;&gt;&lt;a href=&quot;#Hexo-的安装&quot; class=&quot;headerlink&quot; title=&quot;Hexo 的安装&quot;&gt;&lt;/a&gt;Hexo 的安装&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://bearhao.github.io/categories/Hexo/"/>
+    
+    <category term="Matery" scheme="http://bearhao.github.io/categories/Hexo/Matery/"/>
+    
+    
+    <category term="Github" scheme="http://bearhao.github.io/tags/Github/"/>
+    
+    <category term="Hexo" scheme="http://bearhao.github.io/tags/Hexo/"/>
+    
+    <category term="Coding" scheme="http://bearhao.github.io/tags/Coding/"/>
+    
+    <category term="Gitee" scheme="http://bearhao.github.io/tags/Gitee/"/>
+    
+    <category term="Matery" scheme="http://bearhao.github.io/tags/Matery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown使用指南</title>
+    <link href="http://bearhao.github.io/posts/19324.html"/>
+    <id>http://bearhao.github.io/posts/19324.html</id>
+    <published>2021-09-07T01:25:00.000Z</published>
+    <updated>2023-01-04T14:57:49.533Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;Markdown概述&quot;&gt;&lt;a href=&quot;#Markdown概述&quot; class=&quot;headerlink&quot; title=&quot;Markdown概述&quot;&gt;&lt;/a&gt;Markdown概述&lt;/h2&gt;&lt;hr&gt;
+&lt;h3 id=&quot;宗旨&quot;&gt;&lt;a href=&quot;#宗旨&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://bearhao.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="http://bearhao.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
