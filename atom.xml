@@ -6,7 +6,7 @@
   <link href="http://bearhao.github.io/atom.xml" rel="self"/>
   
   <link href="http://bearhao.github.io/"/>
-  <updated>2023-01-08T10:19:37.006Z</updated>
+  <updated>2023-01-08T10:42:33.352Z</updated>
   <id>http://bearhao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://bearhao.github.io/posts/36738.html"/>
     <id>http://bearhao.github.io/posts/36738.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-08T10:19:37.006Z</updated>
+    <updated>2023-01-08T10:42:33.352Z</updated>
     
     
       
@@ -41,15 +41,15 @@
     <category term="Matery" scheme="http://bearhao.github.io/categories/Hexo/Matery/"/>
     
     
+    <category term="GitHub" scheme="http://bearhao.github.io/tags/GitHub/"/>
+    
+    <category term="Valine" scheme="http://bearhao.github.io/tags/Valine/"/>
+    
     <category term="Hexo" scheme="http://bearhao.github.io/tags/Hexo/"/>
     
     <category term="Gitee" scheme="http://bearhao.github.io/tags/Gitee/"/>
     
     <category term="Matery" scheme="http://bearhao.github.io/tags/Matery/"/>
-    
-    <category term="GitHub" scheme="http://bearhao.github.io/tags/GitHub/"/>
-    
-    <category term="Valine" scheme="http://bearhao.github.io/tags/Valine/"/>
     
   </entry>
   
@@ -58,7 +58,7 @@
     <link href="http://bearhao.github.io/posts/62652.html"/>
     <id>http://bearhao.github.io/posts/62652.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-08T10:36:04.654Z</updated>
+    <updated>2023-01-08T10:57:24.695Z</updated>
     
     
       
