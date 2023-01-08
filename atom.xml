@@ -6,7 +6,7 @@
   <link href="http://bearhao.github.io/atom.xml" rel="self"/>
   
   <link href="http://bearhao.github.io/"/>
-  <updated>2023-01-08T10:11:37.792Z</updated>
+  <updated>2023-01-08T10:19:37.006Z</updated>
   <id>http://bearhao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://bearhao.github.io/posts/36738.html"/>
     <id>http://bearhao.github.io/posts/36738.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-08T10:11:37.792Z</updated>
+    <updated>2023-01-08T10:19:37.006Z</updated>
     
     
       
@@ -41,22 +41,24 @@
     <category term="Matery" scheme="http://bearhao.github.io/categories/Hexo/Matery/"/>
     
     
-    <category term="Github" scheme="http://bearhao.github.io/tags/Github/"/>
-    
     <category term="Hexo" scheme="http://bearhao.github.io/tags/Hexo/"/>
     
     <category term="Gitee" scheme="http://bearhao.github.io/tags/Gitee/"/>
     
     <category term="Matery" scheme="http://bearhao.github.io/tags/Matery/"/>
     
+    <category term="GitHub" scheme="http://bearhao.github.io/tags/GitHub/"/>
+    
+    <category term="Valine" scheme="http://bearhao.github.io/tags/Valine/"/>
+    
   </entry>
   
   <entry>
-    <title>Markdown使用指南</title>
-    <link href="http://bearhao.github.io/posts/19324.html"/>
-    <id>http://bearhao.github.io/posts/19324.html</id>
+    <title>关于的 MarkDown 使用</title>
+    <link href="http://bearhao.github.io/posts/62652.html"/>
+    <id>http://bearhao.github.io/posts/62652.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-08T09:42:28.911Z</updated>
+    <updated>2023-01-08T10:36:04.654Z</updated>
     
     
       
@@ -71,10 +73,10 @@
     
     
     
-    <category term="Markdown" scheme="http://bearhao.github.io/categories/Markdown/"/>
+    <category term="MarkDown" scheme="http://bearhao.github.io/categories/MarkDown/"/>
     
     
-    <category term="Markdown" scheme="http://bearhao.github.io/tags/Markdown/"/>
+    <category term="MarkDown" scheme="http://bearhao.github.io/tags/MarkDown/"/>
     
   </entry>
   
