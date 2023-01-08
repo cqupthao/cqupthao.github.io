@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>正韬之道</title>
+  <title>韜の道</title>
   
-  <subtitle>自强不息，厚德载物！</subtitle>
+  <subtitle>厚德载物</subtitle>
   <link href="http://bearhao.github.io/atom.xml" rel="self"/>
   
   <link href="http://bearhao.github.io/"/>
-  <updated>2023-01-07T09:39:28.797Z</updated>
+  <updated>2023-01-08T09:00:17.493Z</updated>
   <id>http://bearhao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://bearhao.github.io/posts/36738.html"/>
     <id>http://bearhao.github.io/posts/36738.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-07T09:39:28.797Z</updated>
+    <updated>2023-01-08T09:00:17.493Z</updated>
     
     
       
