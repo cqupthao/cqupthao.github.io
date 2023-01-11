@@ -6,7 +6,7 @@
   <link href="http://bearhao.github.io/atom.xml" rel="self"/>
   
   <link href="http://bearhao.github.io/"/>
-  <updated>2023-01-11T10:02:48.361Z</updated>
+  <updated>2023-01-11T10:41:14.952Z</updated>
   <id>http://bearhao.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Go Web 编程原理</title>
+    <link href="http://bearhao.github.io/posts/54137.html"/>
+    <id>http://bearhao.github.io/posts/54137.html</id>
+    <published>2022-03-07T01:25:00.000Z</published>
+    <updated>2023-01-11T10:41:14.952Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;Web-服务器&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Web-服务器&quot;&gt;☃&lt;/a&gt;Web 服务器&lt;/h1&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Web-服务器的工作过程&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Go Web" scheme="http://bearhao.github.io/categories/Go-Web/"/>
+    
+    
+    <category term="Go" scheme="http://bearhao.github.io/tags/Go/"/>
+    
+    <category term="Web" scheme="http://bearhao.github.io/tags/Web/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo 搭建个人博客和 Matery 主题配置优化</title>
