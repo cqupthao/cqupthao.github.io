@@ -6,7 +6,7 @@
   <link href="http://bearhao.github.io/atom.xml" rel="self"/>
   
   <link href="http://bearhao.github.io/"/>
-  <updated>2023-01-09T08:45:40.149Z</updated>
+  <updated>2023-01-11T09:39:03.857Z</updated>
   <id>http://bearhao.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo搭建个人博客和Matery主题优化配置</title>
+    <title>Hexo 搭建个人博客和 Matery 主题配置优化</title>
     <link href="http://bearhao.github.io/posts/45644.html"/>
     <id>http://bearhao.github.io/posts/45644.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-09T08:45:40.149Z</updated>
+    <updated>2023-01-11T09:39:03.857Z</updated>
     
     
       
@@ -29,7 +29,7 @@
         
         
     <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;Hexo-的安装&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Hexo-的安装&quot;&gt;¶&lt;/a&gt;Hexo 的安装&lt;/h1&gt;
+&lt;h1 id=&quot;Hexo-的安装&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Hexo-的安装&quot;&gt;☃&lt;/a&gt;Hexo 的安装&lt;/h1&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;a href=&quot;https://hexo.io/themes/&quot;&gt;Hexo&lt;/a&gt;</summary>
         
@@ -59,7 +59,7 @@
     <link href="http://bearhao.github.io/posts/62652.html"/>
     <id>http://bearhao.github.io/posts/62652.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-09T08:45:16.305Z</updated>
+    <updated>2023-01-11T08:52:13.605Z</updated>
     
     
       
@@ -67,7 +67,7 @@
         
         
     <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;MarkDown-概述&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#MarkDown-概述&quot;&gt;￥&lt;/a&gt;MarkDown 概述&lt;/h2&gt;
+&lt;h2 id=&quot;MarkDown-概述&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#MarkDown-概述&quot;&gt;☃&lt;/a&gt;MarkDown 概述&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h3 id=&quot;宗旨&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
@@ -79,37 +79,6 @@
     
     
     <category term="MarkDown" scheme="http://bearhao.github.io/tags/MarkDown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Go Web 编程原理</title>
-    <link href="http://bearhao.github.io/posts/54137.html"/>
-    <id>http://bearhao.github.io/posts/54137.html</id>
-    <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-06T07:49:41.578Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;WEB-编程原理&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#WEB-编程原理&quot;&gt;¶&lt;/a&gt;WEB 编程原理&lt;/h1&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;Web-服务器的工作过程&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Golang" scheme="http://bearhao.github.io/categories/Golang/"/>
-    
-    
-    <category term="Go" scheme="http://bearhao.github.io/tags/Go/"/>
-    
-    <category term="Web" scheme="http://bearhao.github.io/tags/Web/"/>
     
   </entry>
   
