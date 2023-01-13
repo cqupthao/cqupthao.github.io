@@ -48,11 +48,75 @@
   </entry>
   
   <entry>
+    <title>Go 语言配置管理神器-Viper</title>
+    <link href="https://cquptaho.gitee.io/posts/46415.html"/>
+    <id>https://cquptaho.gitee.io/posts/46415.html</id>
+    <published>2022-02-20T01:25:00.000Z</published>
+    <updated>2023-01-13T09:30:30.447Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;Go-语言配置管理神器-Viper&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Go-语言配置管理神器-Viper&quot;&gt;☃&lt;/a&gt;Go 语言配置管理神器-Viper&lt;/h1&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Golang" scheme="https://cquptaho.gitee.io/tags/Golang/"/>
+    
+    <category term="Viper" scheme="https://cquptaho.gitee.io/tags/Viper/"/>
+    
+    <category term="Go" scheme="https://cquptaho.gitee.io/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go 开发环境配置</title>
+    <link href="https://cquptaho.gitee.io/posts/35155.html"/>
+    <id>https://cquptaho.gitee.io/posts/35155.html</id>
+    <published>2022-02-11T01:25:00.000Z</published>
+    <updated>2023-01-13T09:31:43.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;Go-的安装、升级与卸载&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Go-的安装、升级与卸载&quot;&gt;☃&lt;/a&gt;Go 的安装、升级与卸载&lt;/h1&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Go-语言简介&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Vim" scheme="https://cquptaho.gitee.io/tags/Vim/"/>
+    
+    <category term="Golang" scheme="https://cquptaho.gitee.io/tags/Golang/"/>
+    
+    <category term="VS Code" scheme="https://cquptaho.gitee.io/tags/VS-Code/"/>
+    
+    <category term="Linux" scheme="https://cquptaho.gitee.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo 搭建个人博客和 Matery 主题配置优化</title>
     <link href="https://cquptaho.gitee.io/posts/45644.html"/>
     <id>https://cquptaho.gitee.io/posts/45644.html</id>
     <published>2022-01-24T05:57:00.000Z</published>
-    <updated>2023-01-12T09:39:28.868Z</updated>
+    <updated>2023-01-13T09:25:33.604Z</updated>
     
     
       
@@ -72,6 +136,8 @@
     
     <category term="Matery" scheme="https://cquptaho.gitee.io/categories/Hexo/Matery/"/>
     
+    
+    <category term="Linux" scheme="https://cquptaho.gitee.io/tags/Linux/"/>
     
     <category term="GitHub" scheme="https://cquptaho.gitee.io/tags/GitHub/"/>
     
