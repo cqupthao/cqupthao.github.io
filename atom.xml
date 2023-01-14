@@ -72,9 +72,9 @@
     
     <category term="Golang" scheme="https://cquptaho.gitee.io/tags/Golang/"/>
     
-    <category term="Viper" scheme="https://cquptaho.gitee.io/tags/Viper/"/>
-    
     <category term="Go" scheme="https://cquptaho.gitee.io/tags/Go/"/>
+    
+    <category term="Viper" scheme="https://cquptaho.gitee.io/tags/Viper/"/>
     
   </entry>
   
@@ -83,7 +83,7 @@
     <link href="https://cquptaho.gitee.io/posts/35155.html"/>
     <id>https://cquptaho.gitee.io/posts/35155.html</id>
     <published>2022-02-11T01:25:00.000Z</published>
-    <updated>2023-01-13T10:10:06.911Z</updated>
+    <updated>2023-01-14T09:01:50.922Z</updated>
     
     
       
@@ -100,6 +100,12 @@
     
     
     
+    <category term="Go" scheme="https://cquptaho.gitee.io/categories/Go/"/>
+    
+    <category term="Golang" scheme="https://cquptaho.gitee.io/categories/Go/Golang/"/>
+    
+    <category term="VS Code" scheme="https://cquptaho.gitee.io/categories/Go/Golang/VS-Code/"/>
+    
     
     <category term="Vim" scheme="https://cquptaho.gitee.io/tags/Vim/"/>
     
@@ -107,9 +113,9 @@
     
     <category term="VS Code" scheme="https://cquptaho.gitee.io/tags/VS-Code/"/>
     
-    <category term="Linux" scheme="https://cquptaho.gitee.io/tags/Linux/"/>
-    
     <category term="Go" scheme="https://cquptaho.gitee.io/tags/Go/"/>
+    
+    <category term="Linux" scheme="https://cquptaho.gitee.io/tags/Linux/"/>
     
   </entry>
   
@@ -118,7 +124,7 @@
     <link href="https://cquptaho.gitee.io/posts/45644.html"/>
     <id>https://cquptaho.gitee.io/posts/45644.html</id>
     <published>2022-01-24T05:57:00.000Z</published>
-    <updated>2023-01-14T07:48:27.361Z</updated>
+    <updated>2023-01-14T08:03:15.242Z</updated>
     
     
       
