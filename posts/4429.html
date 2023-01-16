@@ -111,11 +111,11 @@ and another one[^4]
     node((圆形节点))</pre><ul><li>非对称形节点。</li></ul><div class="mermaid">flowchart LR node&gt;非对称形节点]</div><pre class="mermaid">flowchart LR
     node&gt;非对称形节点]</pre><ul><li>菱形节点。</li></ul><div class="mermaid">flowchart LR node{菱形节点}</div><pre class="mermaid">flowchart LR
     node{菱形节点}</pre><ul><li>六角形节点。</li></ul><div class="mermaid">flowchart LR node</div><pre class="mermaid">flowchart LR
-    node</pre><ul><li>平行四边形节点。</li></ul><div class="mermaid">graph TD node1[/平行四边形/] node2[\平行四边形\]</div><pre class="mermaid">flowchart TD
+    node</pre><ul><li>平行四边形节点。</li></ul><div class="mermaid">flowchart TD node1[/平行四边形/] node2[\平行四边形\]</div><pre class="mermaid">flowchart TD
     node1[/平行四边形/]
-    node2[\平行四边形\]</pre><ul><li>梯形节点。</li></ul><div class="mermaid">flowchart TD A[/上梯形\] B[\下梯形/]</div><pre class="mermaid">flowchart TD
+    node2[\平行四边形\]</pre><ul><li>梯形节点。</li></ul><div class="mermaid">gragh TD A[/上梯形\] B[\下梯形/]</div><pre class="mermaid">flowchart TD
     A[/上梯形\]
-    B[\下梯形/]</pre><ul><li>环形节点。</li></ul><div class="mermaid">flowchart TD node((环形节点))</div><pre class="mermaid">flowchart TD
+    B[\下梯形/]</pre><ul><li>环形节点。</li></ul><div class="mermaid">gragh TD node((环形节点))</div><pre class="mermaid">flowchart TD
     node((环形节点))</pre><blockquote><p>节点形状总结如下表：</p></blockquote><table><thead><tr><th style="text-align:center">形状</th><th style="text-align:center">Mermaid 符号</th></tr></thead><tbody><tr><td style="text-align:center">矩形</td><td style="text-align:center"><code>xxx</code> / <code>node[xxx]</code></td></tr><tr><td style="text-align:center">圆形</td><td style="text-align:center"><code>(xxx)</code></td></tr><tr><td style="text-align:center">球场形</td><td style="text-align:center"><code>([xxx])</code></td></tr><tr><td style="text-align:center">子程序形</td><td style="text-align:center"><code>[[xxx]]</code></td></tr><tr><td style="text-align:center">圆柱形</td><td style="text-align:center"><code>[(xxx)]</code></td></tr><tr><td style="text-align:center">非对称形</td><td style="text-align:center"><code>&gt;xxx]</code></td></tr><tr><td style="text-align:center">菱形</td><td style="text-align:center"><code>{xxx}</code></td></tr><tr><td style="text-align:center">六角形</td><td style="text-align:center"><code>{{xxx}}</code></td></tr><tr><td style="text-align:center">平行四边形</td><td style="text-align:center"><code>[/xxx/]</code> / <code>[\xxx\]</code></td></tr><tr><td style="text-align:center">梯形</td><td style="text-align:center"><code>[/xxx\]</code> / <code>[\xxx/]</code></td></tr><tr><td style="text-align:center">环形</td><td style="text-align:center"><code>((xxx))</code></td></tr></tbody></table><hr><h3 id="节点间的连接"><a class="header-anchor" href="#节点间的连接">☃</a>节点间的连接</h3><hr><p>可以连接两个节点通过一条线，可以设置不同类型的线和带有文字的线，节点可以使用<code>链接/边</code>连接，可以具有不同类型的链接或将文本字符串附加到链接。</p><ul><li>实线直接连接。</li></ul><div class="mermaid">flowchart LR A --- B</div><pre class="mermaid">flowchart LR
     A --- B</pre><ul><li>单方向箭头的实线连接。</li></ul><ol><li>从左到右方向。</li></ol><div class="mermaid">flowchart LR A--&gt;B</div><pre class="mermaid">flowchart LR
     A--&gt;B</pre><p>2.从右到左方向。</p><div class="mermaid">flowchart RL A--&gt;B</div><pre class="mermaid">flowchart RL
@@ -123,7 +123,7 @@ and another one[^4]
     A--&gt;B</pre><ol start="4"><li>从下到上方向。</li></ol><div class="mermaid">flowchart BT A--&gt;B</div><pre class="mermaid">flowchart BT
     A--&gt;B</pre><ul><li>带文本的节点连接。</li></ul><div class="mermaid">graph LR A-- 文本 ---B A---|文本|B</div><pre class="mermaid">flowchart LR
     A-- 文本 ---B
-     A---|文本|B</pre><ul><li>单方向箭头的文本线。</li></ul><ol><li>从左到右方向。</li></ol><div class="mermaid">graph LR A--&gt;|文本|B A-- 文本 --&gt;B</div><pre class="mermaid">graph LR
+     A---|文本|B</pre><ul><li>单方向箭头的文本线。</li></ul><ol><li>从左到右方向。</li></ol><div class="mermaid">flowchart LR A--&gt;|文本|B A-- 文本 --&gt;B</div><pre class="mermaid">graph LR
     A--&gt;|文本|B
     A-- 文本 --&gt;B</pre><ol start="2"><li>从右到左方向。</li></ol><div class="mermaid">flowchart RL A--&gt;|文本|B A-- 文本 --&gt;B</div><pre class="mermaid">flowchart RL
     A--&gt;|文本|B
