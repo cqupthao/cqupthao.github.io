@@ -134,7 +134,7 @@
       <link href="/posts/14373.html"/>
       <url>/posts/14373.html</url>
       
-        <content type="html"><![CDATA[<div class="mermaid">  graph TB     node     A--&gt;B</div><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+        <content type="html"><![CDATA[<div class="mermaid">  flowchart TB     node     A--&gt;B</div><hr><p>graph TD;<br>A–&gt;B;<br>A–&gt;C;<br>B–&gt;D;<br>C–&gt;D;</p><hr><pre class="line-numbers language-mermaid" data-language="mermaid"><code class="language-mermaid"><span class="token keyword">graph</span> TD<span class="token punctuation">;</span>    A<span class="token arrow operator">--&gt;</span>B<span class="token punctuation">;</span>    A<span class="token arrow operator">--&gt;</span>C<span class="token punctuation">;</span>    B<span class="token arrow operator">--&gt;</span>D<span class="token punctuation">;</span>    C<span class="token arrow operator">--&gt;</span>D<span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
       
       
       
