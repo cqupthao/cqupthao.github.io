@@ -129,8 +129,8 @@
     <title>Mermaid 的安装和绘制流程图</title>
     <link href="http://cqupthao.github.io/posts/3210.html"/>
     <id>http://cqupthao.github.io/posts/3210.html</id>
-    <published>2022-01-24T09:25:00.000Z</published>
-    <updated>2023-01-17T08:32:09.633Z</updated>
+    <published>2022-01-27T09:25:00.000Z</published>
+    <updated>2023-01-17T08:45:21.661Z</updated>
     
     
       
@@ -167,7 +167,7 @@
     <link href="http://cqupthao.github.io/posts/55297.html"/>
     <id>http://cqupthao.github.io/posts/55297.html</id>
     <published>2022-01-24T09:25:00.000Z</published>
-    <updated>2023-01-17T08:38:41.620Z</updated>
+    <updated>2023-01-17T08:43:45.117Z</updated>
     
     
       
@@ -177,8 +177,8 @@
     <summary type="html">&lt;pre class=&quot;mermaid&quot;&gt;flowchart TB
 	A --&amp;gt; B&lt;/pre&gt;
 &lt;div class=&quot;mermaid&quot;&gt;
-  graph TB
-	a---b
+  flowchart TB
+      a---b
 &lt;/div&gt;
 
 &lt;link rel=&quot;stylesheet&quot;</summary>
@@ -235,7 +235,7 @@
     <link href="http://cqupthao.github.io/posts/0.html"/>
     <id>http://cqupthao.github.io/posts/0.html</id>
     <published>2022-01-16T01:25:00.000Z</published>
-    <updated>2023-01-17T08:32:09.641Z</updated>
+    <updated>2023-01-17T08:40:23.168Z</updated>
     
     
       
