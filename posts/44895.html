@@ -246,7 +246,7 @@ end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
     c1--&gt;a2
     subgraph ide1 [xxx]
     a1--&gt;a2
-    end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><hr><ul><li>设置子图的边。</li></ul><p>使用图形类型流程图，还可以如下面的流程图中那样设置子图的边和子图的边。</p><pre class="mermaid">graph TB
+    end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><hr><ul><li>设置子图的边。</li></ul><p>使用图形类型流程图，还可以如下面的流程图中那样设置子图的边和子图的边。</p><pre class="mermaid">flowchart TB
     c1--&gt;a2
     subgraph one
     a1--&gt;a2
@@ -272,7 +272,7 @@ end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
     end
     one --&gt; two
     three --&gt; two
-    two --&gt; c2<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><hr><ul><li>设置子图方向。</li></ul><p>在 graphtype 流程图中，可以使用方向语句（direction RL/LR/TB/BT）来设置子图将呈现的方向。</p><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">flowchart LR
+    two --&gt; c2<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><hr><ul><li>设置子图方向。</li></ul><p>在 graphtype 流程图中，可以使用方向语句（direction RL/LR/TB/BT）来设置子图将呈现的方向。</p><pre class="mermaid">flowchart LR
   subgraph TOP
     direction TB
     subgraph B1
@@ -285,7 +285,7 @@ end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
     end
   end
   A --&gt; TOP --&gt; B
-  B1 --&gt; B2<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p>mermaid 语法如下：</p></blockquote><pre class="mermaid">flowchart LR
+  B1 --&gt; B2</pre><blockquote><p>mermaid 语法如下：</p></blockquote><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown">flowchart LR
   subgraph TOP
     direction TB
     subgraph B1
@@ -298,7 +298,7 @@ end<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
     end
   end
   A --&gt; TOP --&gt; B
-  B1 --&gt; B2</pre><hr><ul><li>参考 <a href="https://mermaid.js.org/syntax/flowchat.html">Mermaid 官网教程</a></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script></div><hr><div class="reprint" id="reprint-statement"><div class="reprint__author"><span class="reprint-meta" style="font-weight:700"><i class="fas fa-user">文章作者: </i></span><span class="reprint-info"><a href="/about" rel="external nofollow noreferrer">Xiong Hao</a></span></div><div class="reprint__type"><span class="reprint-meta" style="font-weight:700"><i class="fas fa-link">文章链接: </i></span><span class="reprint-info"><a href="https://cquptaho.gitee.io/posts/44895.html">https://cquptaho.gitee.io/posts/44895.html</a></span></div><div class="reprint__notice"><span class="reprint-meta" style="font-weight:700"><i class="fas fa-copyright">版权声明: </i></span><span class="reprint-info">本博客所有文章除特別声明外，均采用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a> 许可协议。转载请注明来源 <a href="/about" target="_blank">Xiong Hao</a> !</span></div></div><script async defer>document.addEventListener("copy", function (e) {
+  B1 --&gt; B2<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><hr><ul><li>参考 <a href="https://mermaid.js.org/syntax/flowchat.html">Mermaid 官网教程</a></li></ul><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script></div><hr><div class="reprint" id="reprint-statement"><div class="reprint__author"><span class="reprint-meta" style="font-weight:700"><i class="fas fa-user">文章作者: </i></span><span class="reprint-info"><a href="/about" rel="external nofollow noreferrer">Xiong Hao</a></span></div><div class="reprint__type"><span class="reprint-meta" style="font-weight:700"><i class="fas fa-link">文章链接: </i></span><span class="reprint-info"><a href="https://cquptaho.github.io/posts/44895.html">https://cquptaho.github.io/posts/44895.html</a></span></div><div class="reprint__notice"><span class="reprint-meta" style="font-weight:700"><i class="fas fa-copyright">版权声明: </i></span><span class="reprint-info">本博客所有文章除特別声明外，均采用 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a> 许可协议。转载请注明来源 <a href="/about" target="_blank">Xiong Hao</a> !</span></div></div><script async defer>document.addEventListener("copy", function (e) {
         let toastHTML = '<span>复制成功，请遵循本文的转载规则</span><button class="btn-flat toast-action" onclick="navToReprintStatement()" style="font-size: smaller">查看</a>';
         M.toast({html: toastHTML})
       });
