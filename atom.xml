@@ -48,11 +48,46 @@
   </entry>
   
   <entry>
-    <title>Go 语言配置管理神器-Viper</title>
+    <title>Golang 开发环境配置</title>
+    <link href="http://cqupthao.github.io/posts/24935.html"/>
+    <id>http://cqupthao.github.io/posts/24935.html</id>
+    <published>2022-02-24T09:25:00.000Z</published>
+    <updated>2023-01-20T07:34:06.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;Go-的安装、升级与卸载&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Go-的安装、升级与卸载&quot;&gt;☃&lt;/a&gt;Go 的安装、升级与卸载&lt;/h1&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;Go-安装&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Go Web" scheme="http://cqupthao.github.io/categories/Go-Web/"/>
+    
+    <category term="软件工具的使用系列" scheme="http://cqupthao.github.io/categories/Go-Web/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
+    
+    
+    <category term="Golang" scheme="http://cqupthao.github.io/tags/Golang/"/>
+    
+    <category term="VS Code" scheme="http://cqupthao.github.io/tags/VS-Code/"/>
+    
+    <category term="Vim" scheme="http://cqupthao.github.io/tags/Vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go语言配置管理神器-Viper</title>
     <link href="http://cqupthao.github.io/posts/46415.html"/>
     <id>http://cqupthao.github.io/posts/46415.html</id>
     <published>2022-02-20T01:25:00.000Z</published>
-    <updated>2023-01-14T13:32:59.490Z</updated>
+    <updated>2023-01-20T07:56:29.049Z</updated>
     
     
       
@@ -69,11 +104,7 @@
     
     
     
-    <category term="Viper" scheme="http://cqupthao.github.io/categories/Viper/"/>
-    
-    <category term="Go" scheme="http://cqupthao.github.io/categories/Viper/Go/"/>
-    
-    <category term="Golang" scheme="http://cqupthao.github.io/categories/Viper/Go/Golang/"/>
+    <category term="软件工具的使用系列" scheme="http://cqupthao.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
     
     
     <category term="Golang" scheme="http://cqupthao.github.io/tags/Golang/"/>
@@ -85,11 +116,11 @@
   </entry>
   
   <entry>
-    <title>Mermaid 的安装和绘制流程图</title>
+    <title>Mermaid的安装和绘制流程图</title>
     <link href="http://cqupthao.github.io/posts/3210.html"/>
     <id>http://cqupthao.github.io/posts/3210.html</id>
     <published>2022-01-27T09:25:00.000Z</published>
-    <updated>2023-01-17T08:49:18.694Z</updated>
+    <updated>2023-01-20T07:37:55.772Z</updated>
     
     
       
@@ -122,44 +153,11 @@
   </entry>
   
   <entry>
-    <title>Golang 编程开发环境的搭建</title>
-    <link href="http://cqupthao.github.io/posts/55015.html"/>
-    <id>http://cqupthao.github.io/posts/55015.html</id>
-    <published>2022-01-24T09:25:00.000Z</published>
-    <updated>2023-01-17T09:34:45.975Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;Go-的安装、升级与卸载&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Go-的安装、升级与卸载&quot;&gt;☃&lt;/a&gt;Go 的安装、升级与卸载&lt;/h1&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;Go-安装&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="软件工具的使用系列" scheme="http://cqupthao.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
-    
-    
-    <category term="Golang" scheme="http://cqupthao.github.io/tags/Golang/"/>
-    
-    <category term="VS Code" scheme="http://cqupthao.github.io/tags/VS-Code/"/>
-    
-    <category term="Vim" scheme="http://cqupthao.github.io/tags/Vim/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo 搭建个人博客和 Matery 主题配置优化</title>
+    <title>Hexo搭建个人博客和Matery主题配置优化</title>
     <link href="http://cqupthao.github.io/posts/45644.html"/>
     <id>http://cqupthao.github.io/posts/45644.html</id>
     <published>2022-01-24T05:57:00.000Z</published>
-    <updated>2023-01-17T08:03:23.564Z</updated>
+    <updated>2023-01-20T07:38:18.172Z</updated>
     
     
       
@@ -175,9 +173,9 @@
     
     
     
-    <category term="Hexo" scheme="http://cqupthao.github.io/categories/Hexo/"/>
+    <category term="软件工具的使用系列" scheme="http://cqupthao.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
     
-    <category term="Matery" scheme="http://cqupthao.github.io/categories/Hexo/Matery/"/>
+    <category term="Hexo" scheme="http://cqupthao.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/Hexo/"/>
     
     
     <category term="GitHub" scheme="http://cqupthao.github.io/tags/GitHub/"/>
@@ -199,7 +197,7 @@
     <link href="http://cqupthao.github.io/posts/34504.html"/>
     <id>http://cqupthao.github.io/posts/34504.html</id>
     <published>2022-01-16T01:25:00.000Z</published>
-    <updated>2023-01-17T09:38:08.300Z</updated>
+    <updated>2023-01-17T09:38:16.637Z</updated>
     
     
       
@@ -232,7 +230,7 @@
     <link href="http://cqupthao.github.io/posts/62652.html"/>
     <id>http://cqupthao.github.io/posts/62652.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-12T09:41:59.269Z</updated>
+    <updated>2023-01-20T07:32:50.005Z</updated>
     
     
       
@@ -248,8 +246,10 @@
     
     
     
-    <category term="MarkDown" scheme="http://cqupthao.github.io/categories/MarkDown/"/>
+    <category term="软件工具的使用系列" scheme="http://cqupthao.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
     
+    
+    <category term="Hexo" scheme="http://cqupthao.github.io/tags/Hexo/"/>
     
     <category term="MarkDown" scheme="http://cqupthao.github.io/tags/MarkDown/"/>
     
