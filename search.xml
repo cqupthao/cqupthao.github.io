@@ -102,6 +102,8 @@
           
           <category> 软件工具的使用系列 </category>
           
+          <category> Hexo </category>
+          
       </categories>
       
       
@@ -133,10 +135,14 @@
           
           <category> 软件工具的使用系列 </category>
           
+          <category> Hexo </category>
+          
       </categories>
       
       
         <tags>
+            
+            <tag> Linux </tag>
             
             <tag> GitHub </tag>
             
@@ -147,8 +153,6 @@
             <tag> Gitee </tag>
             
             <tag> Matery </tag>
-            
-            <tag> Linux </tag>
             
         </tags>
       
@@ -196,6 +200,8 @@
       <categories>
           
           <category> 软件工具的使用系列 </category>
+          
+          <category> Hexo </category>
           
       </categories>
       

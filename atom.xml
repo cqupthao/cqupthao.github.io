@@ -52,7 +52,7 @@
     <link href="https://cqupthao.gitee.io/posts/24935.html"/>
     <id>https://cqupthao.gitee.io/posts/24935.html</id>
     <published>2022-02-24T09:25:00.000Z</published>
-    <updated>2023-01-20T08:27:15.843Z</updated>
+    <updated>2023-01-20T08:32:27.520Z</updated>
     
     
       
@@ -87,7 +87,7 @@
     <link href="https://cqupthao.gitee.io/posts/46415.html"/>
     <id>https://cqupthao.gitee.io/posts/46415.html</id>
     <published>2022-02-20T01:25:00.000Z</published>
-    <updated>2023-01-20T08:19:39.612Z</updated>
+    <updated>2023-01-20T08:34:10.398Z</updated>
     
     
       
@@ -120,7 +120,7 @@
     <link href="https://cqupthao.gitee.io/posts/3210.html"/>
     <id>https://cqupthao.gitee.io/posts/3210.html</id>
     <published>2022-01-27T09:25:00.000Z</published>
-    <updated>2023-01-20T08:14:54.058Z</updated>
+    <updated>2023-01-20T08:33:47.074Z</updated>
     
     
       
@@ -139,6 +139,8 @@
     
     <category term="软件工具的使用系列" scheme="https://cqupthao.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
     
+    <category term="Hexo" scheme="https://cqupthao.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/Hexo/"/>
+    
     
     <category term="Hexo" scheme="https://cqupthao.gitee.io/tags/Hexo/"/>
     
@@ -155,7 +157,7 @@
     <link href="https://cqupthao.gitee.io/posts/45644.html"/>
     <id>https://cqupthao.gitee.io/posts/45644.html</id>
     <published>2022-01-24T05:57:00.000Z</published>
-    <updated>2023-01-20T08:04:17.252Z</updated>
+    <updated>2023-01-20T08:32:51.849Z</updated>
     
     
       
@@ -173,6 +175,10 @@
     
     <category term="软件工具的使用系列" scheme="https://cqupthao.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
     
+    <category term="Hexo" scheme="https://cqupthao.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/Hexo/"/>
+    
+    
+    <category term="Linux" scheme="https://cqupthao.gitee.io/tags/Linux/"/>
     
     <category term="GitHub" scheme="https://cqupthao.gitee.io/tags/GitHub/"/>
     
@@ -183,8 +189,6 @@
     <category term="Gitee" scheme="https://cqupthao.gitee.io/tags/Gitee/"/>
     
     <category term="Matery" scheme="https://cqupthao.gitee.io/tags/Matery/"/>
-    
-    <category term="Linux" scheme="https://cqupthao.gitee.io/tags/Linux/"/>
     
   </entry>
   
@@ -226,7 +230,7 @@
     <link href="https://cqupthao.gitee.io/posts/62652.html"/>
     <id>https://cqupthao.gitee.io/posts/62652.html</id>
     <published>2021-09-07T01:25:00.000Z</published>
-    <updated>2023-01-20T08:30:56.666Z</updated>
+    <updated>2023-01-20T08:33:18.881Z</updated>
     
     
       
@@ -243,6 +247,8 @@
     
     
     <category term="软件工具的使用系列" scheme="https://cqupthao.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/"/>
+    
+    <category term="Hexo" scheme="https://cqupthao.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/Hexo/"/>
     
     
     <category term="Hexo" scheme="https://cqupthao.gitee.io/tags/Hexo/"/>
